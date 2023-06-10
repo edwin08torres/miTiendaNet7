@@ -1,0 +1,2 @@
+---LINK DE SWAGGER
+http://ears21-001-site1.itempurl.com/swagger/index.html

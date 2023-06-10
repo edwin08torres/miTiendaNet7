@@ -1,0 +1,17 @@
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.UTILITY\bin\Debug\net7.0\SistemaVenta.UTILITY.deps.json
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.UTILITY\bin\Debug\net7.0\SistemaVenta.UTILITY.dll
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.UTILITY\bin\Debug\net7.0\SistemaVenta.UTILITY.pdb
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.UTILITY\obj\Debug\net7.0\SistemaVenta.UTILITY.csproj.AssemblyReference.cache
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.UTILITY\obj\Debug\net7.0\SistemaVenta.UTILITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.UTILITY\obj\Debug\net7.0\SistemaVenta.UTILITY.AssemblyInfoInputs.cache
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.UTILITY\obj\Debug\net7.0\SistemaVenta.UTILITY.AssemblyInfo.cs
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.UTILITY\obj\Debug\net7.0\SistemaVenta.UTILITY.csproj.CoreCompileInputs.cache
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.UTILITY\obj\Debug\net7.0\SistemaVenta.UTILITY.dll
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.UTILITY\obj\Debug\net7.0\refint\SistemaVenta.UTILITY.dll
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.UTILITY\obj\Debug\net7.0\SistemaVenta.UTILITY.pdb
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.UTILITY\obj\Debug\net7.0\ref\SistemaVenta.UTILITY.dll
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.UTILITY\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.UTILITY\bin\Debug\net7.0\SistemaVenta.MODEL.dll
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.UTILITY\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.UTILITY\bin\Debug\net7.0\SistemaVenta.MODEL.pdb
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.UTILITY\obj\Debug\net7.0\SistemaVenta.UTILITY.csproj.CopyComplete

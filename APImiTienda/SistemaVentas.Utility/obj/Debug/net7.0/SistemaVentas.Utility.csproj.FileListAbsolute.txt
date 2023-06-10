@@ -1,0 +1,17 @@
+C:\Users\at289\Desktop\Whatever\miTienda\APImiTienda\SistemaVentas.Utility\bin\Debug\net7.0\SistemaVentas.Utility.deps.json
+C:\Users\at289\Desktop\Whatever\miTienda\APImiTienda\SistemaVentas.Utility\bin\Debug\net7.0\SistemaVentas.Utility.dll
+C:\Users\at289\Desktop\Whatever\miTienda\APImiTienda\SistemaVentas.Utility\bin\Debug\net7.0\SistemaVentas.Utility.pdb
+C:\Users\at289\Desktop\Whatever\miTienda\APImiTienda\SistemaVentas.Utility\bin\Debug\net7.0\SistemaVentas.DTO.dll
+C:\Users\at289\Desktop\Whatever\miTienda\APImiTienda\SistemaVentas.Utility\bin\Debug\net7.0\SistemaVentas.Model.dll
+C:\Users\at289\Desktop\Whatever\miTienda\APImiTienda\SistemaVentas.Utility\bin\Debug\net7.0\SistemaVentas.DTO.pdb
+C:\Users\at289\Desktop\Whatever\miTienda\APImiTienda\SistemaVentas.Utility\bin\Debug\net7.0\SistemaVentas.Model.pdb
+C:\Users\at289\Desktop\Whatever\miTienda\APImiTienda\SistemaVentas.Utility\obj\Debug\net7.0\SistemaVentas.Utility.csproj.AssemblyReference.cache
+C:\Users\at289\Desktop\Whatever\miTienda\APImiTienda\SistemaVentas.Utility\obj\Debug\net7.0\SistemaVentas.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\at289\Desktop\Whatever\miTienda\APImiTienda\SistemaVentas.Utility\obj\Debug\net7.0\SistemaVentas.Utility.AssemblyInfoInputs.cache
+C:\Users\at289\Desktop\Whatever\miTienda\APImiTienda\SistemaVentas.Utility\obj\Debug\net7.0\SistemaVentas.Utility.AssemblyInfo.cs
+C:\Users\at289\Desktop\Whatever\miTienda\APImiTienda\SistemaVentas.Utility\obj\Debug\net7.0\SistemaVentas.Utility.csproj.CoreCompileInputs.cache
+C:\Users\at289\Desktop\Whatever\miTienda\APImiTienda\SistemaVentas.Utility\obj\Debug\net7.0\SistemaVentas.Utility.csproj.CopyComplete
+C:\Users\at289\Desktop\Whatever\miTienda\APImiTienda\SistemaVentas.Utility\obj\Debug\net7.0\SistemaVentas.Utility.dll
+C:\Users\at289\Desktop\Whatever\miTienda\APImiTienda\SistemaVentas.Utility\obj\Debug\net7.0\refint\SistemaVentas.Utility.dll
+C:\Users\at289\Desktop\Whatever\miTienda\APImiTienda\SistemaVentas.Utility\obj\Debug\net7.0\SistemaVentas.Utility.pdb
+C:\Users\at289\Desktop\Whatever\miTienda\APImiTienda\SistemaVentas.Utility\obj\Debug\net7.0\ref\SistemaVentas.Utility.dll

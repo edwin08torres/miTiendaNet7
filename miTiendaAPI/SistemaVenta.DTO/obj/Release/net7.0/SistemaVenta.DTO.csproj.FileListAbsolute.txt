@@ -1,0 +1,12 @@
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.DTO\bin\Release\net7.0\SistemaVenta.DTO.deps.json
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.DTO\bin\Release\net7.0\SistemaVenta.DTO.dll
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.DTO\bin\Release\net7.0\SistemaVenta.DTO.pdb
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.csproj.AssemblyReference.cache
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.AssemblyInfoInputs.cache
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.AssemblyInfo.cs
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.csproj.CoreCompileInputs.cache
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.dll
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.DTO\obj\Release\net7.0\refint\SistemaVenta.DTO.dll
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.pdb
+C:\Users\at289\Desktop\Whatever\miTienda\miTiendaAPI\SistemaVenta.DTO\obj\Release\net7.0\ref\SistemaVenta.DTO.dll
